@@ -1,5 +1,7 @@
 git merge with FastForwar
-gggagagagagd
+jkfjksjkdfjslkdjf
+sdjfksjfks
+ggagagagagd
 
 # git_text_remote
 nothing
